@@ -6,10 +6,12 @@ WorkRadar is an AI-assisted web app for a product manager in a startup of about 
 
 **Gopi Krishna · Cohort 40 · AIR Tribe · AI Product Management (AIPM)**
 
+▶ **Live app:** https://gopikrs9.github.io/workradar/
+
 ---
 
 ## Live demo
-- **Online:** use the website link in this repository's **About** section (GitHub Pages).
+- **Online:** **[gopikrs9.github.io/workradar](https://gopikrs9.github.io/workradar/)**
 - **On your computer:** download `index.html` and open it in any browser. No install or server is needed.
 
 ## Submission documents
